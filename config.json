@@ -1,0 +1,25 @@
+{
+  "colors": {
+    "afkSet": "#FEE75C",
+    "welcomeBack": "#57F287",
+    "mentions": "#5865F2",
+    "tambay": "#EB459E",
+    "denied": "#ED4245"
+  },
+  "afk": {
+    "setFooter": "Type anything to come back",
+    "welcomeBackTitle": "👋 Welcome back!",
+    "welcomeBackFooter": "Glad you're here",
+    "mentionsTitle": "📨 Your Away Mentions",
+    "mentionsFooter": "Showing your last 10 mentions",
+    "noMentionsText": "You don't have any away mentions."
+  },
+  "tambay": {
+    "embedTitle": "🏠 Tambay Time!",
+    "embedFooter": "See you there!",
+    "startingTitle": "⏳ Sending messages...",
+    "doneTitle": "✅ Done!",
+    "deniedTitle": "🚫 Admins only",
+    "deniedText": "You need Administrator permission to use this command."
+  }
+}
